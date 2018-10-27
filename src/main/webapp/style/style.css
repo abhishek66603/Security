@@ -1,0 +1,40 @@
+html,
+body,
+header,
+#intro{
+	height:  100%;
+}
+
+#intro{
+	background-image: no-repeat center center-fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+header{
+	height: 58px;
+}
+
+main{
+	height: 100%;
+}
+
+#main-title{
+	margin-top:1px;
+	padding: 30px;
+	font-family: sans-serif;
+	
+}
+
+#home{
+	margin-top: 55px;
+	height: 100%;
+}
+
+#bodyMenuTitle{
+	font-size: xx-large;
+	font-family: fantasy;
+	
+}
